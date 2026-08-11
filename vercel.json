@@ -1,6 +1,6 @@
-//vercel.json
+// vercel.json
 {
-  "rewrites":[
-    {"source":"/(.*)","designation":"/"}
-  ]
+"rewrites": [
+{ "source": "/(.*)", "destination": "/index.html" }
+]
 }
